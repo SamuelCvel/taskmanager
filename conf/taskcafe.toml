@@ -1,5 +1,5 @@
 [server]
-hostname = '0.0.0.0:3333'
+hostname = '127.0.0.1:3333'
 
 [email_notifications]
 enabled = true
