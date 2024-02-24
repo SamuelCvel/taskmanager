@@ -8,5 +8,6 @@ services:
       - ./migrations:/root/migrations
     depends_on:
       - postgres
+      - redis
     networks:
       - taskcafe-test
