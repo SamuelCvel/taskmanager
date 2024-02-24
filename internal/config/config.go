@@ -51,7 +51,7 @@ var defaults = map[string]interface{}{
 	DatabasePort:            "5432",
 	DatabaseSslMode:         "disable",
 	SecurityTokenExpiration: "15m",
-	SecuritySecret:          "",
+	SecuritySecret:          "taskcafetasks555c55d5d5d5d5d6d5",
 	MessageQueue:            "localhost:6379",
 	JobEnabled:              false,
 	JobBroker:               "redis://localhost:6379",
